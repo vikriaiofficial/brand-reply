@@ -466,7 +466,7 @@ export default function Home() {
             <div className={`${styles.heroImageContainer} animate-float`}>
               <div className={styles.heroImageGlow}></div>
               <Image 
-                src="/hero_realistic.jpg" 
+                src="/hero_sms.jpg" 
                 alt="Business Owner Using Brand Reply" 
                 width={500} 
                 height={500} 
@@ -610,7 +610,7 @@ export default function Home() {
           <div className="container">
             <div className={styles.benefitRow}>
               <div>
-                <Image src="/benefit_realistic.jpg" alt="Business Auto Reply Automation" width={700} height={467} className={styles.benefitImage} />
+                <Image src="/benefit_sms.jpg" alt="Business Auto Reply Automation" width={700} height={467} className={styles.benefitImage} />
               </div>
               <div className={styles.benefitContent}>
                 <h3>{t.benefitTitle1}<span className="text-gradient">{t.benefitTitleGradient}</span></h3>
