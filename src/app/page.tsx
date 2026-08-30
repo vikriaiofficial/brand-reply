@@ -797,9 +797,19 @@ export default function Home() {
             <span className={styles.pricePerDay}>{t.stickyPrice}</span>
             <span className={styles.pricePerYear}>{t.stickyPlan}</span>
           </div>
-          <a href="#download" className={styles.whatsappBtn}>
-            <i className="fa-brands fa-android"></i> {t.stickyCTA}
-          </a>
+          <div className={styles.stickyBtns}>
+            <a
+              href="https://wa.me/917350272829?text=Get%20More%20Info%20-%20Brand%20Reply"
+              target="_blank"
+              rel="noopener noreferrer"
+              className={styles.stickyWhatsappBtn}
+            >
+              <i className="fa-brands fa-whatsapp"></i> Get More Info
+            </a>
+            <a href="#download" className={styles.whatsappBtn}>
+              <i className="fa-brands fa-android"></i> {t.stickyCTA}
+            </a>
+          </div>
         </div>
       </div>
 

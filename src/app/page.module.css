@@ -972,6 +972,36 @@
   box-shadow: 0 8px 30px 0 rgba(16, 185, 129, 0.5);
 }
 
+.stickyBtns {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.stickyWhatsappBtn {
+  background: #25D366;
+  color: white;
+  border-radius: 14px;
+  padding: 0.875rem 2rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-weight: 700;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 20px 0 rgba(37, 211, 102, 0.35);
+  font-family: 'Outfit', sans-serif;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.stickyWhatsappBtn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px 0 rgba(37, 211, 102, 0.55);
+  background: #1ebe5d;
+}
+
 /* ===== FOOTER ===== */
 .footer {
   background: var(--bg-dark);
@@ -1099,8 +1129,17 @@
   
   .whatsappBtn {
     width: auto;
-    padding: 0.75rem 1.5rem;
-    font-size: 0.95rem;
+    padding: 0.75rem 1.2rem;
+    font-size: 0.85rem;
+  }
+
+  .stickyBtns {
+    gap: 0.5rem;
+  }
+
+  .stickyWhatsappBtn {
+    padding: 0.75rem 1.2rem;
+    font-size: 0.85rem;
   }
   
   .trustBadges {
