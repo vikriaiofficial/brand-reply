@@ -81,7 +81,7 @@ const translations = {
     testimonial1Text: '"I run a boutique and used to miss 10-15 calls daily. Now every missed call gets an automatic WhatsApp with my catalog. My sales went up 40% in one month!"',
     testimonial1Name: "Priya Sharma",
     testimonial1Role: "Boutique Owner, Pune",
-    testimonial2Text: '"Best ₹999 I have ever spent. I used to manually message every caller. Now Brand Reply does it in 0 seconds. Absolute game changer for my clinic."',
+    testimonial2Text: '"Best ₹1000 I have ever spent. I used to manually message every caller. Now Brand Reply does it in 0 seconds. Absolute game changer for my clinic."',
     testimonial2Name: "Dr. Rajesh Patil",
     testimonial2Role: "Dentist, Mumbai",
     testimonial3Text: '"I\'m a real estate agent. After every call, my property brochure and location gets sent automatically. My clients are always impressed!"',
@@ -90,11 +90,11 @@ const translations = {
     pricingTag: "Simple Pricing",
     pricingTitle1: "One Plan. ",
     pricingTitleGradient: "Unlimited Power.",
-    pricingSub: "One extra customer won from Brand Reply pays for the entire year.",
+    pricingSub: "One extra customer won from Brand Reply pays for the software multiple times over.",
     pricingBadge: "Best Value",
-    pricingLabel: "Premium Annual Plan",
-    pricingPriceYear: "/year",
-    pricingPriceDay: "That's just ₹2.74 per day! ☕",
+    pricingLabel: "Premium Lifetime License",
+    pricingPriceYear: "/one-time",
+    pricingPriceDay: "Pay once, use forever. No recurring fees! 🚀",
     pricingCTA: "Get Started — Download Now",
     pricingF1: "Unlimited Auto Replies",
     pricingF2: "Incoming + Outgoing + Missed Call Triggers",
@@ -121,9 +121,9 @@ const translations = {
     downloadBadge4: "Works Offline (SMS)",
     footerRights: "Brand Reply. All rights reserved.",
     footerDesc: "Built for Indian businesses.",
-    stickyPrice: "Just ₹2.74 / day",
-    stickyPlan: "Premium Plan at ₹999/year",
-    stickyCTA: "Chat on WhatsApp"
+    stickyPrice: "One-Time Payment",
+    stickyPlan: "Lifetime Access at ₹1000",
+    stickyCTA: "Download APK"
   },
   hi: {
     navHowItWorks: "यह कैसे काम करता है",
@@ -201,7 +201,7 @@ const translations = {
     testimonial1Text: '"मैं एक बुटीक चलाती हूँ और रोजाना 10-15 कॉल मिस करती थी। अब हर मिस्ड कॉल पर कैटलॉग के साथ एक स्वचालित व्हाट्सएप जाता है। मेरी बिक्री एक महीने में 40% बढ़ गई!"',
     testimonial1Name: "प्रिया शर्मा",
     testimonial1Role: "बुटीक मालिक, पुणे",
-    testimonial2Text: '"अब तक के सबसे अच्छे ₹999 जो मैंने अपने व्यवसाय पर खर्च किए हैं। मैं हर कॉलर को मैन्युअल रूप से संदेश भेजता था। अब ब्रांड रिप्लाई इसे 0 सेकंड में करता है। मेरे क्लिनिक के लिए बिल्कुल गेम चेंजर।"',
+    testimonial2Text: '"अब तक के सबसे अच्छे ₹1000 जो मैंने अपने व्यवसाय पर खर्च किए हैं। मैं हर कॉलर को मैन्युअल रूप से संदेश भेजता था। अब ब्रांड रिप्लाई इसे 0 सेकंड में करता है। मेरे क्लिनिक के लिए बिल्कुल गेम चेंजर।"',
     testimonial2Name: "डॉ. राजेश पाटिल",
     testimonial2Role: "दंत चिकित्सक, मुंबई",
     testimonial3Text: '"मैं एक रियल एस्टेट एजेंट हूँ। हर कॉल के बाद, मेरा प्रॉपर्टी ब्रोशर और स्थान स्वचालित रूप से भेजा जाता है। मेरे ग्राहक हमेशा प्रभावित होते हैं!"',
@@ -212,9 +212,9 @@ const translations = {
     pricingTitleGradient: "असीमित शक्ति।",
     pricingSub: "ब्रांड रिप्लाई से जीता गया एक अतिरिक्त ग्राहक पूरे साल का खर्च निकाल देता है।",
     pricingBadge: "सर्वोत्तम मूल्य",
-    pricingLabel: "प्रीमियम वार्षिक योजना",
-    pricingPriceYear: "/वर्ष",
-    pricingPriceDay: "यह सिर्फ ₹2.74 प्रति दिन है! ☕",
+    pricingLabel: "प्रीमियम लाइफटाइम लाइसेंस",
+    pricingPriceYear: "/एक-बार",
+    pricingPriceDay: "एक बार भुगतान करें, हमेशा उपयोग करें। कोई शुल्क नहीं! 🚀",
     pricingCTA: "शुरू करें — अभी डाउनलोड करें",
     pricingF1: "असीमित ऑटो रिप्लाई",
     pricingF2: "इनकमिंग + आउटगोइंग + मिस्ड कॉल ट्रिगर",
@@ -241,9 +241,9 @@ const translations = {
     downloadBadge4: "ऑफ़लाइन काम करता है (एसएमएस)",
     footerRights: "ब्रांड रिप्लाई। सभी अधिकार सुरक्षित।",
     footerDesc: "भारतीय व्यवसायों के लिए निर्मित.",
-    stickyPrice: "सिर्फ ₹2.74 / दिन",
-    stickyPlan: "₹999/वर्ष पर प्रीमियम योजना",
-    stickyCTA: "व्हाट्सएप पर चैट करें"
+    stickyPrice: "एक-बार भुगतान",
+    stickyPlan: "₹1000 में लाइफटाइम एक्सेस",
+    stickyCTA: "APK डाउनलोड करें"
   },
   mr: {
     navHowItWorks: "हे कसे काम करते",
@@ -332,9 +332,9 @@ const translations = {
     pricingTitleGradient: "अमर्याद शक्ती.",
     pricingSub: "ब्रँड रिप्लायमुळे मिळालेला एक जास्तीचा ग्राहक तुमच्या संपूर्ण वर्षाचा खर्च वसूल करतो.",
     pricingBadge: "उत्कृष्ट मूल्य",
-    pricingLabel: "प्रीमियम वार्षिक प्लॅन",
-    pricingPriceYear: "/वर्ष",
-    pricingPriceDay: "हे फक्त ₹२.७४ प्रति दिन आहे! ☕",
+    pricingLabel: "प्रीमियम लाइफटाइम लायसन्स",
+    pricingPriceYear: "/एक-वेळ",
+    pricingPriceDay: "एकदा द्या, कायमस्वरूपी वापरा. कोणतेही आवर्ती शुल्क नाही! 🚀",
     pricingCTA: "सुरू करा — आताच डाउनलोड करा",
     pricingF1: "अमर्याद ऑटो रिप्लाय",
     pricingF2: "इनकमिंग + आउटगोइंग + मिस्ड कॉल ट्रिगर्स",
@@ -361,9 +361,9 @@ const translations = {
     downloadBadge4: "इंटरनेटशिवाय काम करते (SMS)",
     footerRights: "ब्रँड रिप्लाय. सर्व हक्क सुरक्षित.",
     footerDesc: "भारतीय व्यवसायांसाठी बनवलेले.",
-    stickyPrice: "फक्त ₹२.७४ / दिवस",
-    stickyPlan: "₹९९९/वर्ष प्रीमियम प्लॅन",
-    stickyCTA: "व्हॉट्सअ‍ॅपवर चॅट करा"
+    stickyPrice: "एक-वेळ पेमेंट",
+    stickyPlan: "₹१०००मध्ये लाइफटाइम ऍक्सेस",
+    stickyCTA: "APK डाउनलोड करा"
   }
 };
 
@@ -688,7 +688,7 @@ export default function Home() {
             <div className={styles.pricingCard}>
               <div className={styles.popularBadge}>{t.pricingBadge}</div>
               <div className={styles.pricingLabel}>{t.pricingLabel}</div>
-              <div className={styles.pricingPrice}>₹999<span>{t.pricingPriceYear}</span></div>
+              <div className={styles.pricingPrice}>₹1000<span>{t.pricingPriceYear}</span></div>
               <div className={styles.pricingSub}>{t.pricingPriceDay}</div>
               
               <a href="#download" className="btn btn-primary" style={{ width: '100%', fontSize: '1.2rem', padding: '1rem' }}>
@@ -797,8 +797,8 @@ export default function Home() {
             <span className={styles.pricePerDay}>{t.stickyPrice}</span>
             <span className={styles.pricePerYear}>{t.stickyPlan}</span>
           </div>
-          <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" className={styles.whatsappBtn}>
-            <i className="fa-brands fa-whatsapp"></i> {t.stickyCTA}
+          <a href="#download" className={styles.whatsappBtn}>
+            <i className="fa-brands fa-android"></i> {t.stickyCTA}
           </a>
         </div>
       </div>
